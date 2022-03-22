@@ -1,0 +1,74 @@
+.checked {
+    text-decoration: line-through;
+    font-size: 36px;
+    color: lightslategrey;
+    /* text-decoration: none; */
+}
+
+.unChecked {
+    font-size: 36px;
+    color: lightslategrey;
+}
+
+.header {
+    background-color: #879ae0;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.header-task {
+    margin-left: 50px;
+    margin-top: 100px;
+}
+
+.button {
+  background-color: #4CAF50;
+  border: 1px solid black;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: flex;
+  font-size: 24px;
+  border-radius: 25px;
+  text-align: center;
+  align-content: center;
+  align-self: center;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.input-box {
+    width: 80%;
+    height: 50px    ;
+}
+
+.itemName {
+    font-size: 36px;
+    color: lightslategrey;
+    text-decoration: none;
+}
+a {
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+.listView {
+    margin-top: 20px;
+
+}
+.span-item {
+    display: flex;
+  justify-content: space-between;
+}
+
+.close-icon {
+    font-size: 36px;
+    align-items: center;
+    /* border: 1px solid red; */
+}
